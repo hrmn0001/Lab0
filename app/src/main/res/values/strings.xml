@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Lab0</string>
-    <string name="hello_harman"></string>
+    <string name="hello_hrmn">Hello world!</string>
+    <string name="button_message">I\'m a button</string>
 </resources>
